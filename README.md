@@ -12,7 +12,7 @@ It highlights pricing trends, bedroom distribution, location-based insights, and
 
 ## 📂 Files in this Repository
 - `airbnb tableau dashboard.twb` → Tableau workbook file  
-- `bdd669a0-4667-473f-a53a-0b40f4b3ee87.png` → Screenshot preview of the dashboard  
+- `dashboard.png` → Screenshot preview of the dashboard  
 
 ---
 
