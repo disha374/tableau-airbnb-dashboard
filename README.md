@@ -6,7 +6,7 @@ It highlights pricing trends, bedroom distribution, location-based insights, and
 ---
 
 ## 📊 Dashboard Preview
-![Airbnb Dashboard](bdd669a0-4667-473f-a53a-0b40f4b3ee87.png)
+![Airbnb Dashboard](dashboard.png)
 
 ---
 
@@ -18,6 +18,6 @@ It highlights pricing trends, bedroom distribution, location-based insights, and
 
 ## 📀 Dataset
 The dataset used for this project is available on Kaggle:  
-👉 [Airbnb Listings Dataset](https://www.kaggle.com/dataset-link-here)  
+👉 [Airbnb Listings Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)  
 
-*(Download the dataset from Kaggle and connect it to the Tablea*
+
